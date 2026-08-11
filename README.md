@@ -80,11 +80,11 @@ Tools
 5. Flight Duration Analysis : 
 A box plot was used to compare flight duration across different airlines.
 The box plot helps identify:
-  * Median flight duration
-  * Distribution spread
-  * Interquartile range
-  * Variability
-  * Potential outliers
+    * Median flight duration
+    * Distribution spread
+    * Interquartile range
+    * Variability
+    * Potential outliers
 
 6. Flight Price Distribution :
   The distribution of ticket prices was analyzed using statistical visualization techniques.
@@ -92,21 +92,21 @@ The box plot helps identify:
 
 7. Outlier Analysis :
 Box plots were used to identify unusual values in numerical columns such as:
-  * duration
-  * price
-  * days_left
+    * duration
+    * price
+    * days_left
 Potential outliers were investigated before deciding whether they represented valid observations or data-quality issues.
 
 8. Correlation Analysis :
 A correlation heatmap was created for numerical variables to understand relationships between features.
 The analysis focuses particularly on relationships involving:
-  * price
-  * duration
-  * days_left
+    * price
+    * duration
+    * days_left
 Correlation values range from **-1 to +1**:
-  * +1 → Strong positive relationship
-  * 0 → Little or no linear relationship
-  * -1 → Strong negative relationship
+    * +1 → Strong positive relationship
+    * 0 → Little or no linear relationship
+    * -1 → Strong negative relationship
 
 📊 Visualizations
 
